@@ -1,0 +1,58 @@
+.mycanvasb{
+	
+	left: 200px;
+	top: 0px;
+	z-index: 1;
+	position: absolute;
+}
+
+.hook{
+	
+	left: 690px;
+	top: 100px;
+	z-index: 8;
+	position: absolute;
+	transform-origin: top;
+}
+
+.myline{
+	
+	left: 200px;
+	top: 0px;
+	z-index: 5;
+	position: absolute;
+	
+}
+
+.material{
+	
+	left: 200px;
+	top: 0px;
+	z-index: 12;
+	position: absolute;
+	
+}
+.move{
+	
+	left: 200px;
+	top: 0px;
+	z-index: 13;
+	position: absolute;
+	
+}
+.music{
+	
+	left: 0px;
+	top: 0px;
+	z-index: 0;
+	position: absolute;
+	
+}
+.guodu{
+	
+	left: 200px;
+	top: 0px;
+	z-index: 19;
+	position: absolute;
+	
+}
