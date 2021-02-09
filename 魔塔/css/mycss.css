@@ -1,0 +1,37 @@
+.gameshow{
+	
+	background-color: rgb(240,255,255);
+	margin-left: 200px;
+	margin-top: 00px;
+	
+}
+.attritube{
+	
+	width: 50px;
+	height: 150px;
+	
+	background-color: rgb(255,255,255);
+	
+	
+}
+.lifetext{
+	
+	margin-left: 150px;
+	margin-top: -300px;
+	
+}
+
+.backpic{
+	
+	width: 150px;
+	height: 150px;
+	
+	margin-left: 300px;
+	
+}
+.peopic{
+	
+	width: 5px;
+	visibility: hidden;
+	
+}
